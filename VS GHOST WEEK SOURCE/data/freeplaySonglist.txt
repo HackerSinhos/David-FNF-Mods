@@ -1,0 +1,6 @@
+Tutorial:gf:1
+Phantom:dad:1
+Specter:dad:1
+Polterghost:dad:1
+Paranormal:dad:2
+Dinner:dad:2
