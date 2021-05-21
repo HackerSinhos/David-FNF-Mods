@@ -1,0 +1,4 @@
+Tutorial:gf:2
+Burning:dad:1
+Disgust:dad:1
+Wake:gf:2
