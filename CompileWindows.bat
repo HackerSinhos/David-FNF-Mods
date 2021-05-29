@@ -1,2 +1,2 @@
 lime build windows -release
-pause
+pause 
