@@ -1,7 +1,7 @@
 # davids-mods-source
 Source of all the fnf mods I made lmao
 
-READ THIS YOU POOTIS.
+read this please if you want to use my source files for your mods.
 
 Ok so I will only include the files I modified not ALL files of the source lmao.
 
