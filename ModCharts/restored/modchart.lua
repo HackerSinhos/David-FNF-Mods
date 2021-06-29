@@ -1,5 +1,5 @@
 function start(song) -- Why are you here?
-function setDefault(id)
+function setDefault(id) --Literally middlescroll. Move this to your song folder and that's it
         _G['defaultStrum'..id..'X'] = getActorX(id)
 	end
     for i = 4, 7 do -- go to the center
