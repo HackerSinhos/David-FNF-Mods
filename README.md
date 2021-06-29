@@ -1,8 +1,12 @@
 # davids-mods-source
 Source of all the fnf mods I made lmao
+
 READ THIS YOU POOTIS.
+
 Ok so I will only include the files I modified not ALL files of the source lmao.
+
 Idk why people include all the source files??? Like only include the ones you modified i guess LOL
+
 Additional info:
 
 The Battle Between Yourself:KADE ENGINE 1.4.2
