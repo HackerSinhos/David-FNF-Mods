@@ -1,4 +1,4 @@
-function update (elapsed)
+function update (elapsed) --Remember that if you use it for your song the curStep will be diferent!
 	if curStep >= 0 and curStep < 480 then --TAGM you got some mods showcase to do buddy.Hey but seriously you are so cool dude :)
     setActorY(300, 6)
 	setActorY(150, 5)
