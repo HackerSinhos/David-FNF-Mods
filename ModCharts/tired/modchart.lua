@@ -35,7 +35,7 @@ tweenPos(2, 100, 50, 1, done)
 tweenPos(4, 815, 165, 1, done)
 tweenPos(6, 750, 50, 1, done)
 end
-if curStep > 512 and curStep < 655  then
+if curStep > 512 and curStep < 655  then --Took me a while hehe!
 tweenPos(1, 350, 50, 1, done)
 tweenPos(3, 275, 165, 1, done)
 tweenPos(5, 1000, 50, 1, done)
