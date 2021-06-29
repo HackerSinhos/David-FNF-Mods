@@ -1,4 +1,4 @@
-function update (elapsed)
+function update (elapsed) --Bruh curSteps will be different for you!
 	if curStep >= 0 and curStep < 654 then
 	setActorY(-100, 0)
 	setActorY(-100, 1)
