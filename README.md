@@ -18,5 +18,3 @@ VS GHOST FULL WEEK:KADE ENGINE 1.4.2
 CAPTAINSPARKLEZ FULL WEEK:KADE ENGINE 1.3.1
 
 THE DECISIVE BATTLE:KADE ENGINE 1.5.1
-
-!(Logo)https://raw.githubusercontent.com/DavidPootis/David-FNF-Mods/main/logo.png
