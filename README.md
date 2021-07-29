@@ -21,4 +21,6 @@ THE DECISIVE BATTLE:KADE ENGINE 1.5.1
 
 VS OBAMIUM: MIC'D UP 2.0.3
 
+VS NOTHING: KADE ENGINE 1.6
+
 ![logo](https://user-images.githubusercontent.com/83901746/124301985-dada1200-db60-11eb-9a2b-3cc8c80a1bb4.png)
